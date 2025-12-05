@@ -4,8 +4,7 @@
 ---
 
 ### 🌟 About Me
-I’m a passionate **Computer Science graduate** skilled in cloud technologies, security, machine learning, and app development.  
-I love problem-solving, building real-world projects, and exploring cutting-edge technologies.
+Cybersecurity & Ethical Hacking Enthusiast with hands-on skills in Threat Analysis, Python Scripting & Cloud Security (AWS) — backed by experience in Java, Android Development, MySQL, Machine Learning & Game Programming.
 
 ---
 
