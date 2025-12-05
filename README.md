@@ -9,7 +9,7 @@ I love problem-solving, building real-world projects, and exploring cutting-edge
 
 ---
 
-## 🔧 Skills & Technologies (Symbolic Badges)
+## 🔧 Skills & Technologies
 
 ### 💻 Programming & Development
 <p>
